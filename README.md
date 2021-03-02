@@ -6,5 +6,5 @@ You can use these emotes under the CC BY 4.0 license- that means you are free to
 
 ![guymotes preview](https://i.imgur.com/tjbhkuq.png)
 
-*(back to [robot.wavetro.net/#theguy](robot.wavetro.net/#theguy))* <br>
-*(back to [wavetro.net](wavetro.net))*
+*(back to [robot.wavetro.net/#theguy](https://robot.wavetro.net/#theguy))* <br>
+*(back to [wavetro.net](https://wavetro.net))*
