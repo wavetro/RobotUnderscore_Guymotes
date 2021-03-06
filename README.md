@@ -1,6 +1,7 @@
 # Guymotes Emote Pack
 
 **To download a single emote,** click on the emote in the file list and hit the "Download" button at the top.
+
 **To download all the emotes**, click the big green button at the top and hit the "Download .ZIP" option.
 
 You can use these emotes under the <ins>**CC BY 4.0 license**</ins>- that means you are free to use them however you want, provided you credit me somewhere visibly. To read the full license, see the full Creative Commons license page [here](https://creativecommons.org/licenses/by/4.0/).
